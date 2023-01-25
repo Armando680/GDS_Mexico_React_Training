@@ -1,0 +1,12 @@
+.list-group-item {
+    cursor: pointer;
+
+    .task-header {
+        font-weight: bold;
+    }
+
+    .task-info {
+        display: flex;
+        justify-content: space-between;
+    }
+}
